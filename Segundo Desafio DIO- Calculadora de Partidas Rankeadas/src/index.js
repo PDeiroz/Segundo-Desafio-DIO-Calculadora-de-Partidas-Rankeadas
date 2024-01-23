@@ -20,7 +20,7 @@ function calcularNivel(saldo) {
     }
 }
 
-// Exemplo de uso
+
 const quantidadeVitorias = 23;
 const quantidadeDerrotas = 7;
 
